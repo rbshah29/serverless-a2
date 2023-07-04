@@ -1,0 +1,31 @@
+.home-container {
+    text-align: center;
+  }
+  
+  .home-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .home-links {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .home-link {
+    margin-bottom: 10px;
+    background-color: #008CBA;
+  }
+  .link-name{
+    color: white;
+  }
+  .home-link a {
+    color: #000;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .home-link a:hover {
+    color: #007bff;
+  }
+  
